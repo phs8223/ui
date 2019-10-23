@@ -4,7 +4,7 @@
         <v-app-bar
                 app
                 clipped-left
-                color="red"
+                color="blue"
                 style="background-color:red"
         >
             <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
